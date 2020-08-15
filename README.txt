@@ -13,8 +13,8 @@ LANGKAH INSTALLASI
 - JIKA SUDAH MELAKUKAN INSTALLASI SEKARANG KITA DOWNLOAD SCRIPT MENGGUNAKAN PERINTAH GIT TADI
 - SILAKAN ARAHKAN DULU TEMPAT MENYIMPAN SCRIPTNYA KETIKAN:
 "cd /sdcard/namafolder_kalian_tempat_menyimpan_script" #Berfungsi Mengakses Memori Internal Kalian
-"git clone http://github.com/layscape/777selenia" #Berfungsi untuk mendownload script dari github
-"cd 777selenia" #berfungsi untuk mengakses folder script
+"git clone http://github.com/layscape/selenia" #Berfungsi untuk mendownload script dari github
+"cd selenia" #berfungsi untuk mengakses folder script
 - SELANJUTNYA KITA RUN CONFIG DENGAN MENGETIKAN
 "python bot.py"
 - LAKUKAN REGISTRASI TERLEBIH DAHULU
