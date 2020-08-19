@@ -43,6 +43,6 @@ PENJELASAN SETTING TRADESET
 	"AddDelayTradeLose":MEMBERIKAN DELAY TRADING JIKA LOSE DALAM HITUNGAN DETIK
 ERROR YANG SERING TERJADI KETIKA MENJALANKAN SCRIPT
 
-Error 'Payout', konsultasikan saja ke creator, ini hanya masalah salah setting config
+Error 'Payouts'/'PayIns', konsultasikan saja ke creator, ini hanya masalah salah setting config
 Error 'ses', sebelum melakukan trading harap login terlebih dahulu
 Error 'cloudscraper', silakan baca ulang langkah installasi
