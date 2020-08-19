@@ -8,6 +8,7 @@ LANGKAH INSTALLASI
 "apt install python / khusus vps: apt install python3" #Berfungsi untuk menginstall bahasa script yang diperlukan
 "pip install --upgrade pip / khusus vps : pip3 install --upgrade pip" #Berfungsi untuk media install modul script yang diperlukan
 "pip install cloudscraper" #Berfungsi menginstall modul cloudscraper
+"pip install requests" #Berfungsi menginstall modul requests
 "apt install git" #Berfungsi untuk menginstall git untuk mengambil script dari github tanpa mendownload dari browser
 "termux-setup-storage"
 - JIKA SUDAH MELAKUKAN INSTALLASI SEKARANG KITA DOWNLOAD SCRIPT MENGGUNAKAN PERINTAH GIT TADI
