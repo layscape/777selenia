@@ -30,5 +30,7 @@ tools = {
 	"ChangeTCAfterLose":{
 		"Toogle":"OFF",
 		"ChangeTo":"10"},
-	"ContinueLastBase":"OFF"			#ON/OFF. Fungsinya Kalau Lose Ingin Lanjutkan Base Terakhir atau Tidak		
+	"ContinueLastBase":"OFF",			#ON/OFF. Fungsinya Kalau Lose Ingin Lanjutkan Base Terakhir atau Tidak		
+	"SmartRecovery":"OFF"				#ON/OFF. Fungsinya Melanjutkan Recovery Sampai Profit Kembali Semula
+}
 }
