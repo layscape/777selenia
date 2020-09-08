@@ -33,4 +33,3 @@ tools = {
 	"ContinueLastBase":"OFF",			#ON/OFF. Fungsinya Kalau Lose Ingin Lanjutkan Base Terakhir atau Tidak		
 	"SmartRecovery":"OFF"				#ON/OFF. Fungsinya Melanjutkan Recovery Sampai Profit Kembali Semula
 }
-}
