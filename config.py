@@ -7,7 +7,8 @@ tradeset = {
 	"BaseTrade":"0.01",
 	"C1":"5", 							#5-95
 	"C2":"95", 							#5-95
-	"TradeCount":"0", 				#max limit 200
+	"TradeCount_1":"1",					#1-200
+	"TradeCount_2":"10", 					#1-200
 	"MultiplyOnWin":"0", 				## 0 untuk OFF 
 	"MultiplyOnLose":"0", 				## 0 untuk OFF 
 	"MaxBaseTrade":{
